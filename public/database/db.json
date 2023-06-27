@@ -1,0 +1,54 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the capital of India",
+      "answer": "New Delhi",
+      "id": 3
+    },
+    {
+      "question": "What is the economic capital of India",
+      "answer": "Mumbai",
+      "id": 4
+    },
+    {
+      "question": "What is called oxford of the east?",
+      "answer": "Pune",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "question": "What is the smallest planet in our solar system?",
+      "answer": "Mercury"
+    },
+    {
+      "id": 7,
+      "question": "What is the capital of Japan?",
+      "answer": "Tokyo"
+    },
+    {
+      "id": 8,
+      "question": "What is the highest mountain in the world?",
+      "answer": "Mount Everest"
+    },
+    {
+      "id": 9,
+      "question": "What is the largest ocean in the world?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": 10,
+      "question": "What is the capital of Australia?",
+      "answer": "Canberra"
+    }
+  ]
+}
